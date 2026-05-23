@@ -47,6 +47,9 @@ Final_DatAI_SantaCotes/
 ├── README.md                   — este archivo
 ├── Consultasajedrez.ipynb      — notebook con consultas ejecutadas
 └── informe_final.pdf           — informe del proyecto
+└── Schema.sql                  — Esquema de las tablas
+└── Script_base.sql             — informacion insertada
+
 ```
 
 ---
